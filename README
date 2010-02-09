@@ -1,0 +1,8 @@
+When you would like to automaticly have a pop up simply add following line of HTML to your code 
+(including prototype.js and lightbox.js provided):
+
+<input class="lbOn" id="lbOnAuto" type="hidden" value="http://google.com">
+            
+(replace value="" with url you would like lightbox to display inside) 
+
+- Aleksey Korzun
